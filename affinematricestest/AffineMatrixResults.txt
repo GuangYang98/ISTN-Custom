@@ -1,0 +1,56 @@
+Name:
+affineMatrices_refined_e
+Average MSE:
+0.40712078094197834
+Variance MSE:
+0.10220544331162935
+
+Name:
+affineMatrices_refined_i
+Average MSE:
+0.0884309556475756
+Variance MSE:
+0.006036547036363642
+
+Name:
+affineMatrices_refined_s
+Average MSE:
+0.3998226809966641
+Variance MSE:
+0.09650070833828281
+
+Name:
+affineMatrices_refined_u
+Average MSE:
+0.39994400613298847
+Variance MSE:
+0.09661177570289202
+
+Name:
+affineMatrices_warped_e
+Average MSE:
+0.39627349585669636
+Variance MSE:
+0.10020700907281928
+
+Name:
+affineMatrices_warped_i
+Average MSE:
+0.0884309556475756
+Variance MSE:
+0.006036547036363642
+
+Name:
+affineMatrices_warped_s
+Average MSE:
+0.40153365585922063
+Variance MSE:
+0.09907440912889352
+
+Name:
+affineMatrices_warped_u
+Average MSE:
+0.40699648966412877
+Variance MSE:
+0.09857387448187202
+

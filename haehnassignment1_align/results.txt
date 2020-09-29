@@ -1,0 +1,36 @@
+Path: /home/yahiya.hussain001/istn/haehnassignment1_align/haehnassignment1_e/warpedSource
+MseAverage: 46.499534098307294
+MseVariance: 21.938578391070994
+
+Path: /home/yahiya.hussain001/istn/haehnassignment1_align/haehnassignment1_e/refinedWarpedSource
+MseAverage: 44.69955139160156
+MseVariance: 28.487085867725927
+
+Path: /home/yahiya.hussain001/istn/haehnassignment1_align/haehnassignment1_i/warpedSource
+MseAverage: 45.36648152669271
+MseVariance: 23.214600167344837
+
+Path: /home/yahiya.hussain001/istn/haehnassignment1_align/haehnassignment1_i/refinedWarpedSource
+MseAverage: 45.746924845377606
+MseVariance: 18.527984800573645
+
+Path: /home/yahiya.hussain001/istn/haehnassignment1_align/haehnassignment1_u/warpedSource
+MseAverage: 45.038455200195315
+MseVariance: 26.67178260130497
+
+Path: /home/yahiya.hussain001/istn/haehnassignment1_align/haehnassignment1_u/refinedWarpedSource
+MseAverage: 44.008767700195314
+MseVariance: 37.882920302677284
+
+Path: /home/yahiya.hussain001/istn/haehnassignment1_align/haehnassignment1_s/warpedSource
+MseAverage: 48.49746297200521
+MseVariance: 1.44573878923638
+
+Path: /home/yahiya.hussain001/istn/haehnassignment1_align/haehnassignment1_s/refinedWarpedSource
+MseAverage: 48.53672485351562
+MseVariance: 1.3859108685577908
+
+Path: original val.csv
+MseAverage: 53.587058512369794
+MseVariance: 37.45877324255391
+
